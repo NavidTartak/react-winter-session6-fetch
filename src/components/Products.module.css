@@ -1,0 +1,22 @@
+.m3top {
+  margin-top: 3em;
+}
+.mainBack {
+  position: fixed;
+  top: 0;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  overflow-y: scroll;
+  background: url("../images/background.jpg");
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-clip: border-box;
+}
+.padding0 {
+  padding: 0 !important;
+}
+.cursorPointer {
+  cursor: pointer;
+}
